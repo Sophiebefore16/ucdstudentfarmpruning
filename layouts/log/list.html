@@ -1,0 +1,25 @@
+{{ define "main" }}
+<section class="log-hero">
+  <h1>Log</h1>
+  <p class="log-desc">
+    Field notes, reflections, and learning records from the student farm.
+  </p>
+  <p class="log-update">Last updated: {{ now.Format "2006-01-02" }}</p>
+</section>
+
+<!-- Log 列表 -->
+<main class="log-list">
+  {{ range $index, $page := .Pages.ByDate.Reverse }}
+  <a href="{{ .RelPermalink }}" class="log-item">
+    <div class="log-number">{{ printf "%02d" (add $index 1) }}</div>
+    <div class="log-content">
+      <h2 class="log-title">{{ .Title }}</h2>
+      <div class="log-meta">
+        <span>{{ .Date.Format "2006/01/02" }}</span>
+        <span>· {{ .WordCount }} words</span>
+      </div>
+    </div>
+  </a>
+  {{ end }}
+</main>
+{{ end }}

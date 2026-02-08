@@ -1,0 +1,15 @@
+<div class="custom-img-container" style="text-align: center; margin: 2rem 0; width: 100%;">
+  <img src="{{ .Get "src" | relURL }}"
+       style="width: {{ .Get "w" | default "60%" }};
+              max-width: {{ .Get "w" | default "600px" }};
+              height: auto;
+              border-radius: 8px;
+              display: block;
+              margin: 0 auto;">
+
+  {{ with .Get "caption" }}
+    <p style="color: #888; font-size: 0.85rem; margin-top: 10px; font-style: italic;">
+      {{ . }}
+    </p>
+  {{ end }}
+</div>

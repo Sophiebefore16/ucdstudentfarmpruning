@@ -1,0 +1,6 @@
+baseURL = "http://localhost:1313/"
+title = "Pruning Blog"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+
+theme = ""
