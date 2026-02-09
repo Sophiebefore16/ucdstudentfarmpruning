@@ -1,4 +1,4 @@
-baseURL = "https://sophiebefore16.github.io/pruning-blog/"
+baseURL = "https://sophiebefore16.github.io/ucdstudentfarmpruning/"
 publishDir = "docs"
-relativeURLs = false
-canonifyURLs = true
+relativeURLs = true
+canonifyURLs = false

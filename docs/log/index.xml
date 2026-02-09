@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Log on </title>
-    <link>https://sophiebefore16.github.io/pruning-blog/log/</link>
+    <link>https://sophiebefore16.github.io/ucdstudentfarmpruning/log/</link>
     <description>Recent content in Log on </description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="https://sophiebefore16.github.io/pruning-blog/log/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sophiebefore16.github.io/ucdstudentfarmpruning/log/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>idk</title>
-      <link>https://sophiebefore16.github.io/pruning-blog/log/log1/</link>
+      <link>https://sophiebefore16.github.io/ucdstudentfarmpruning/log/log1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://sophiebefore16.github.io/pruning-blog/log/log1/</guid>
-      <description>&lt;p&gt;hi everyone sorry to disappoint you I don&amp;rsquo;t have enough time to write any articles yet.&lt;/p&gt;&#xA;&lt;div class=&#34;custom-img-container&#34; style=&#34;text-align: center; margin: 2rem 0; width: 100%;&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;https://sophiebefore16.github.io/pruning-blog/images/cactus.jpg&#34;&#xD;&#xA;       style=&#34;width: 300px;&#xD;&#xA;              max-width: 300px;&#xD;&#xA;              height: auto;&#xD;&#xA;              border-radius: 8px;&#xD;&#xA;              display: block;&#xD;&#xA;              margin: 0 auto;&#34;&gt;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;    &lt;p style=&#34;color: #888; font-size: 0.85rem; margin-top: 10px; font-style: italic;&#34;&gt;&#xD;&#xA;      this is a cactus&#xD;&#xA;    &lt;/p&gt;&#xD;&#xA;  &#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&#xA;&lt;p&gt;where is my cat&lt;/p&gt;</description>
+      <guid>https://sophiebefore16.github.io/ucdstudentfarmpruning/log/log1/</guid>
+      <description>&lt;p&gt;hi everyone sorry to disappoint you I don&amp;rsquo;t have enough time to write any articles yet.&lt;/p&gt;&#xA;&lt;div class=&#34;custom-img-container&#34; style=&#34;text-align: center; margin: 2rem 0; width: 100%;&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;../images/cactus.jpg&#34;&#xD;&#xA;       style=&#34;width: 300px;&#xD;&#xA;              max-width: 300px;&#xD;&#xA;              height: auto;&#xD;&#xA;              border-radius: 8px;&#xD;&#xA;              display: block;&#xD;&#xA;              margin: 0 auto;&#34;&gt;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;    &lt;p style=&#34;color: #888; font-size: 0.85rem; margin-top: 10px; font-style: italic;&#34;&gt;&#xD;&#xA;      this is a cactus&#xD;&#xA;    &lt;/p&gt;&#xD;&#xA;  &#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&#xA;&lt;p&gt;where is my cat&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
