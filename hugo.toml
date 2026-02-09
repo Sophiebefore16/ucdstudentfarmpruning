@@ -1,6 +1,4 @@
-baseURL = "http://localhost:1313/"
-title = "Pruning Blog"
-languageCode = "en-us"
-defaultContentLanguage = "en"
-
-theme = ""
+baseURL = "https://sophiebefore16.github.io/pruning-blog/"
+publishDir = "docs"
+relativeURLs = false
+canonifyURLs = true
