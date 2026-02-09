@@ -1,4 +1,2 @@
 baseURL = "https://sophiebefore16.github.io/ucdstudentfarmpruning/"
-publishDir = "docs"
-relativeURLs = true
-canonifyURLs = false
+
