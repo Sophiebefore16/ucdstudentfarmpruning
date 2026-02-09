@@ -1,2 +1,3 @@
 baseURL = "https://sophiebefore16.github.io/ucdstudentfarmpruning/"
-
+languageCode = "en-us"
+title = "Pruning Blog"
