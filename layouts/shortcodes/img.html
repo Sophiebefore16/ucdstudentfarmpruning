@@ -1,5 +1,5 @@
 <div class="custom-img-container" style="text-align: center; margin: 2rem 0; width: 100%;">
-  <img src="{{ .Get "src" | relURL }}"
+  <img src="{{ .Get "src" | absURL }}"
        style="width: {{ .Get "w" | default "60%" }};
               max-width: {{ .Get "w" | default "600px" }};
               height: auto;
