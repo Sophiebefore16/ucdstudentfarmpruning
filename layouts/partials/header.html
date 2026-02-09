@@ -1,12 +1,12 @@
- <header class="navbar">
+<header class="navbar">
     <div class="nav-inner">
-      <a href="{{ "/" | relURL }}" class="logo">
-        <img src="{{ "images/logo.png" | relURL }}" alt="UC Davis Student Farm Logo">
+      <a href="{{ "/" | absURL }}" class="logo">
+        <img src="{{ "images/logo.png" | absURL }}" alt="UC Davis Student Farm Logo">
       </a>
       <nav class="nav-links">
-        <a href="{{ "/" | relURL }}" class="nav-item {{ if .IsHome }}active{{ end }}">Home</a>
-        <a href="{{ "/log/" | relURL }}" class="nav-item {{ if eq .Section "log" }}active{{ end }}">Log</a>
-        <a href="{{ "/about/" | relURL }}" class="nav-item {{ if eq .Section "about" }}active{{ end }}">About</a>
+        <a href="{{ "/" | absURL }}" class="nav-item {{ if .IsHome }}active{{ end }}">Home</a>
+        <a href="{{ "/log/" | absURL }}" class="nav-item {{ if eq .Section "log" }}active{{ end }}">Log</a>
+        <a href="{{ "/about/" | absURL }}" class="nav-item {{ if eq .Section "about" }}active{{ end }}">About</a>
       </nav>
     </div>
-  </header>
+</header>
