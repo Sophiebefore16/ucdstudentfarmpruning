@@ -1,25 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pruning Blog</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Pruning Blog</description>
+    <title>UC Davis Student Farm Pruning Blog</title>
+    <link>http://localhost:1313/ucdstudentfarmpruning/</link>
+    <description>Recent content on UC Davis Student Farm Pruning Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/ucdstudentfarmpruning/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description></description>
+      <title>Why or Why Not ...?</title>
+      <link>http://localhost:1313/ucdstudentfarmpruning/log/why-or-why-not/</link>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ucdstudentfarmpruning/log/why-or-why-not/</guid>
+      <description>&lt;p&gt;Before we start some serious rant about physiology and ecosystem in fruit tree management nowadays, let’s talk about dos and don’ts in pruning in another way. Here are some of the thoughts I have or come up with for someone who doesn&amp;rsquo;t really know about pruning while learning about fruit trees and pruning. I hope you will find the content at least not boring…!&lt;/p&gt;&#xA;&lt;h2 id=&#34;why-not-just-leave-them-alone-without-pruning-how-can-you-tell-whether-trees-have-feelings-or-not-and-they-dont-hurt&#34;&gt;Why not just leave them alone without pruning? How can you tell whether trees have feelings or not and they don’t hurt?&lt;/h2&gt;&#xA;&lt;p&gt;If we just don’t prune… Yeah you are right, we can actually do that but not for all trees. Evergreen trees like olives and citrus require little to none pruning, mainly for two reasons (that I can think of). First is that evergreen trees, as the name suggests, do not have significant dormant seasons compared to deciduous trees. In colder weather their growth does slow down in most cases but pruning still introduces stress to ongoing growth.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>idk</title>
-      <link>http://localhost:1313/log/log1/</link>
+      <title>About</title>
+      <link>http://localhost:1313/ucdstudentfarmpruning/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/log/log1/</guid>
-      <description>&lt;p&gt;hi everyone sorry to disappoint you I don&amp;rsquo;t have enough time to write any articles yet.&lt;/p&gt;&#xA;&lt;div class=&#34;custom-img-container&#34; style=&#34;text-align: center; margin: 2rem 0; width: 100%;&#34;&gt;&#xD;&#xA;  &lt;img src=&#34;http://localhost:1313/images/cactus.jpg&#34;&#xD;&#xA;       style=&#34;width: 300px;&#xD;&#xA;              max-width: 300px;&#xD;&#xA;              height: auto;&#xD;&#xA;              border-radius: 8px;&#xD;&#xA;              display: block;&#xD;&#xA;              margin: 0 auto;&#34;&gt;&#xD;&#xA;&#xD;&#xA;  &#xD;&#xA;    &lt;p style=&#34;color: #888; font-size: 0.85rem; margin-top: 10px; font-style: italic;&#34;&gt;&#xD;&#xA;      this is a cactus&#xD;&#xA;    &lt;/p&gt;&#xD;&#xA;  &#xD;&#xA;&lt;/div&gt;&#xD;&#xA;&#xA;&lt;p&gt;where is my cat&lt;/p&gt;</description>
+      <guid>http://localhost:1313/ucdstudentfarmpruning/about/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>

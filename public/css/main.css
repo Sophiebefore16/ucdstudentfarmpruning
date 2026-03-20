@@ -132,7 +132,7 @@ main {
   align-items: center;
   justify-content: center;
   font-weight: bold;
-  font-family: elephant, Helvetica, Arial, sans-serif;
+  font-family: 'Abril Fatface', serif;
   font-size: 2.5rem;
 }
 
@@ -267,6 +267,13 @@ color: #888;
   text-align: left;
 }
 
+.post-content h2 {
+    font-family: lora, serif;
+    font-weight: 900;
+    line-height: 1.1;
+    margin: 2.5rem 0 1.2rem 0;
+}
+
 .post-date {
   display: block;
   font-family: 'Montserrat', sans-serif;
@@ -282,6 +289,11 @@ color: #888;
   line-height: 1.8;
   font-size: 1.1rem;
   color: #333;
+}
+
+.post-content p {
+    margin-bottom: 1.5rem;
+    line-height: 1.6;
 }
 
 .post-content figure {
@@ -355,7 +367,7 @@ color: #888;
 }
 
 .section-title {
-  font-family: 'Elephant', serif;
+  font-family: 'Abril Fatface', serif;
   font-size: clamp(2rem, 6vw, 3.5rem);
   color: #5b5b00;
   margin-bottom: 20px;
@@ -374,7 +386,7 @@ color: #888;
 }
 
 .farm-color-block h2 {
-  font-family: 'Elephant', serif;
+  font-family: 'Abril Fatface', serif;
   font-size: 3.5rem;
   color: #e9ecf1;
   margin: 0;

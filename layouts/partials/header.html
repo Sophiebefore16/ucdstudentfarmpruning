@@ -9,7 +9,9 @@
 
       <a href="{{ "log/" | relURL }}" class="nav-item {{ if eq .Section "log" }}active{{ end }}">Log</a>
 
-      <a href="{{ "about/" | relURL }}" class="nav-item {{ if eq .Section "about" }}active{{ end }}">About</a>
-    </nav>
+<a href="{{ "about/" | relURL }}"
+   class="nav-item {{ if in .RelPermalink "about" }}active{{ end }}">
+   About
+</a>    </nav>
   </div>
 </header>
