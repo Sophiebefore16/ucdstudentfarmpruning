@@ -406,12 +406,16 @@ color: #888;
 }
 
 .link-label {
-  font-size: 14px;
+  font-size: 13px; /* 稍微调小一点点字号，换行后更好看 */
   font-weight: bold;
   opacity: 0;
   transform: translateY(10px);
   transition: all 0.3s ease;
   color: #5b5b00;
+  white-space: pre-line;
+  text-align: center;
+  min-width: 80px;
+  line-height: 1.2;
 }
 
 .icon-link:hover {
