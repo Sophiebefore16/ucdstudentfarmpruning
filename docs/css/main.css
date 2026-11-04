@@ -406,7 +406,7 @@ color: #888;
 }
 
 .link-label {
-  font-size: 13px; /* 稍微调小一点点字号，换行后更好看 */
+  font-size: 13px;
   font-weight: bold;
   opacity: 0;
   transform: translateY(10px);
@@ -431,7 +431,6 @@ color: #888;
   opacity: 1;
   transform: translateY(0);
 }
-
 
 /* ============================================================
 laptop&phone   ============================================================ */

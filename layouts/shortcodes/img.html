@@ -1,8 +1,9 @@
 <div class="custom-img-container" style="text-align: center; margin: 2rem 0; width: 100%;">
   <img src="{{ .Get "src" | absURL }}"
        alt="{{ .Get "caption" | default "image" }}"
-       style="width: {{ .Get "w" | default "60%" }};
-              max-width: {{ .Get "mw" | default "800px" }};
+       style="max-height: {{ .Get "mh" | default "400px" }};
+              width: auto;
+              max-width: 100%;
               height: auto;
               border-radius: 8px;
               display: block;
